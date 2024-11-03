@@ -1,5 +1,5 @@
 
 # Telegram Bot 
 
-a telegram bot running on raspberry pi zero 2 w
+a telegram bot made using C# .NET 6
 
