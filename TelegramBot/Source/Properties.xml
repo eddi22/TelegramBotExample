@@ -1,0 +1,5 @@
+﻿<?xml version="1.0"?>
+<XMLStorage>
+	<yourTelegramChannelId>add here your telegram channel id</yourTelegramChannelId>
+	<telegramBotKey>add here your telegram bot key</telegramBotKey>
+</XMLStorage>
